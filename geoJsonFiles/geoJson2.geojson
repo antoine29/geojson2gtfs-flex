@@ -1,0 +1,28 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"agencia": "B"
+			},
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+            			-68.12693953514099,
+            			-16.529998451272856
+          			],
+          			[
+          			  	-68.12697172164916,
+          			  	-16.53015273255518
+          			],
+          			[
+          			  	-68.12774956226349,
+          			  	-16.53161325591952
+          			]
+				]
+			}
+		}
+	]
+}
