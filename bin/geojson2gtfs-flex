@@ -4,7 +4,7 @@ const yargs = require("yargs");
 const geojson2gtfs = require('..');
 
 const options = yargs
- .usage("Usage: geojson2gtfs -i [folder] -s [jsonFile]")
+ .usage("Usage: geojson2gtfs-flex -i [folder] -s [jsonFile]")
  
  .help('h')
  .alias('h', 'help')
